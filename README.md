@@ -10,6 +10,6 @@ Send me a DM on [Linkedin](https://www.linkedin.com/in/apolo-albuquerque-9948131
 
 <div>
   <a href="https://github.com/apoloapolo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoloapolo&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoloapolo&layout=compact&langs_count=6&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apoloapolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
