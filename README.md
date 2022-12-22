@@ -1,16 +1,15 @@
-### Hi there 👋
+### It's me! Hi! I'm Apolo, it's me! 👋
 
-<!--
-**apoloapolo/apoloapolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UFRPE and Administration Technician at IFPE (locked due to graduation but I'm going to finish), I've been trying to unify the two worlds of knowledge, something close to the Information Systems course.
 
-Here are some ideas to get you started:
+🏳️‍🌈 I'm a proud member of LGBTQIA+ programmers community!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Send me a DM on [Linkedin](https://www.linkedin.com/in/apolo-albuquerque-994813159) and let's talk!
+
+<hr/>
+
+<div>
+  <a href="https://github.com/apoloapolo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoloapolo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apoloapolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
