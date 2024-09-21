@@ -1,6 +1,6 @@
 ### It's me! Hi! I'm Apolo, it's me! 👋
 
-Computer Science student at UFRPE and Administration Technician at IFPE, I've been trying to unify the two worlds of knowledge, something close to the Information Systems course.
+Computer Science student at UFRPE and a graduate in Administration Technician at IFPE, I've been trying to unify the two worlds of knowledge, something close to the Information Systems course.
 
 🏳️‍🌈 I'm a proud member of LGBTQIA+ programmers community!
 
